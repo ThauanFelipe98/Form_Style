@@ -1,0 +1,35 @@
+*{
+    margin: 0 auto;
+    padding: 0 auto;
+}
+
+form{
+    width: 80%;
+    padding: 10px 10px;
+   /*background-image: linear-gradient(to bottom right, rgb(39, 78, 122), rgb(0, 204, 255));*/ 
+    background: rgb(2,0,36);
+    background: linear-gradient(90deg, rgb(7, 172, 248) 0%, rgb(20, 135, 150) 35%, rgb(72, 83, 85) 100%);
+    margin-top: 20px;
+    border-radius: 10px;
+    
+}
+#erro{
+    height: 40px;
+   background-color: rgb(255, 255, 255);
+    color: rgb(252, 0, 0);
+    padding: 8px;
+    border-radius: 10px;
+    font-size: 18px;
+}
+
+.cadastro{
+    color: white;
+    text-shadow: #222 3px 2.5px 3px;
+}
+
+
+.confirsenha12{
+    text-align: left;
+    margin-left: 80%;
+    color: blueviolet;
+}
